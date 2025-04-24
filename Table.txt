@@ -3336,21 +3336,9 @@ return {
         end
     },
     {
-        Name = "Sin 3.5",
-        Function = function(Username)
-            require(2787132106):Run(Username, "hack")
-        end
-    },
-    {
         Name = "Sin Dragon",
         Function = function(Username)
             require(14136474118)(Username)
-        end
-    },
-    {
-        Name = "Sin V2",
-        Function = function(Username)
-            require(4710057607).load(Username)
         end
     },
     {
